@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * Classe Logger
  * 
- * @author metzgegu	& carriean
+ * @author metzgegu	et carriean
  *
  */
 public class Logger {

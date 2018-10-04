@@ -3,7 +3,7 @@ package logger;
 /**
  * Enumeration du type de gravité pour le logger
  * 
- * @author metzgegu	& carriean
+ * @author metzgegu	et carriean
  *
  */
 public enum Gravity {
